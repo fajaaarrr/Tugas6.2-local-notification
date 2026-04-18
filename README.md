@@ -1,4 +1,6 @@
 # 🔔 Local Notification App
+Nama : Muhammad Fajar Shodiq
+Nim: 1202230045
 
 Aplikasi Flutter sederhana yang mendemonstrasikan penggunaan **local notification** pada Android dan iOS menggunakan package `flutter_local_notifications`.
 
@@ -90,3 +92,4 @@ File `android/app/build.gradle.kts` dikonfigurasi dengan:
 - **Mata Kuliah**: Aplikasi Perangkat Bergerak
 - **Tugas**: 6.2 - Local Notification
 - **Platform**: Android & iOS
+<img width="389" height="864" alt="Screenshot 2026-04-18 143257" src="https://github.com/user-attachments/assets/0f7c8803-f39f-4080-887b-a94fd1ab1d3f" />
